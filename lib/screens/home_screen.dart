@@ -22,9 +22,7 @@ class _HomeScreenState extends State<HomeScreen> {
         children: [
           Container(
             margin: EdgeInsets.all(kdefaultPaddig),
-            // height: size.height * 0.3,
             width: size.width,
-            // decoration: BoxDecoration(color: Colors.blue),
             child: Column(
               children: [
                 Container(
